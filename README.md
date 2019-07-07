@@ -1,2 +1,2 @@
 # hello-world
-still testing, nothing to see here
+First repository to figure out how to make a repository work
